@@ -1,10 +1,10 @@
 {
     "results" : [
         {
-           name : Peter
+           "name" : "Peter"
         },
         {
-            name : John
+            "name" : "John"
         }
                  
 ]
