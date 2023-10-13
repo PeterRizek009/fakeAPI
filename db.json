@@ -161,18 +161,48 @@
         {
 
             "code": "12",
-            "name": "Regular Fit Jacket",
-            "price": 84.99,
+            "name": "Slim Fit Fine-knit Cotton Sweater",
+            "price": 31.99,
             "images": [
                 {
-                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/5e/b4/5eb41c56b6802a5ea14e3244a5c56210aa0e2e0d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
-                    "baseUrl": "https://image.hm.com/assets/hm/5e/b4/5eb41c56b6802a5ea14e3244a5c56210aa0e2e0d.jpg"
+                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/a3/9ba384a6427231a10387edc3729c47590a07ae88.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                    "baseUrl": "https://image.hm.com/assets/hm/9b/a3/9ba384a6427231a10387edc3729c47590a07ae88.jpg"
                 }
             ],
             "brandName": "H&M",
             "concept": "H&M MAN"
 
-        }
+        },
+        {
+
+            "code": "13",
+            "name": "Slim Fit Stretch Shirt",
+            "price": 24.99,
+            "images": [
+                {
+                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/8b/bd8bb047bca20fdc8d8b39089cf8ed4b8d4a73fc.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                    "baseUrl": "https://image.hm.com/assets/hm/bd/8b/bd8bb047bca20fdc8d8b39089cf8ed4b8d4a73fc.jpg"
+                }
+            ],
+            "brandName": "H&M",
+            "concept": "H&M MAN"
+
+        },
+        {
+
+            "code": "14",
+            "name": "Regular Fit Rib-knit Resort Shirt",
+            "price": 36.99,
+            "images": [
+                {
+                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/98/62/9862fb8a2e7542ee6855581e9fd10888ddca0310.jpg],origin[dam],category[men_shirts_casual],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                    "baseUrl": "https://image.hm.com/assets/hm/98/62/9862fb8a2e7542ee6855581e9fd10888ddca0310.jpg"
+                }
+            ],
+            "brandName": "H&M",
+            "concept": "H&M MAN"
+
+        },
    
       
 
