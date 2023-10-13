@@ -157,6 +157,20 @@
             "brandName": "H&M",
             "concept": "H&M MAN"
 
+        } {
+
+            "code": "12",
+            "name": "Regular Fit Jacket",
+            "price": 84.99,
+            "images": [
+                {
+                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/5e/b4/5eb41c56b6802a5ea14e3244a5c56210aa0e2e0d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                    "baseUrl": "https://image.hm.com/assets/hm/5e/b4/5eb41c56b6802a5ea14e3244a5c56210aa0e2e0d.jpg"
+                }
+            ],
+            "brandName": "H&M",
+            "concept": "H&M MAN"
+
         }
    
       
