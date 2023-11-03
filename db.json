@@ -187,21 +187,6 @@
             "brandName": "H&M",
             "concept": "H&M MAN"
 
-        },
-        {
-
-            "code": "14",
-            "name": "Regular Fit Rib-knit Resort Shirt",
-            "price": 36.99,
-            "images": [
-                {
-                    "url": "https://lp2.hm.com/hmgoepprod?set=source[/98/62/9862fb8a2e7542ee6855581e9fd10888ddca0310.jpg],origin[dam],category[men_shirts_casual],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
-                    "baseUrl": "https://image.hm.com/assets/hm/98/62/9862fb8a2e7542ee6855581e9fd10888ddca0310.jpg"
-                }
-            ],
-            "brandName": "H&M",
-            "concept": "H&M MAN"
-
         }
    
       
