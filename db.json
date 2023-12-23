@@ -136,17 +136,7 @@
                "gender": "MAN",
             "count": 1
 
-        },
-        {
-            "code": "16",
-            "name": "Regular Fit Joggers",
-            "price": 14.99,
-            "images": "https://lp2.hm.com/hmgoepprod?set=source[/51/9d/519daf6308896642807bada2b222152d856a04a1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
-                   
-            "brandName": "H&M",
-           "gender": "MAN",
-            "count": 1
-
-        },
+        }
+       
     ]
 }
