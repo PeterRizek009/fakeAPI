@@ -116,7 +116,7 @@
             "gender": "MAN",
             "count": 1
         },
-          {
+        {
             "code": "14",
             "name": "V-neck Cotton Sweater",
             "images":  "https://lp2.hm.com/hmgoepprod?set=source[/8f/f4/8ff4ab27d52561fa351d032dec29436d429b91b0.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
@@ -124,8 +124,7 @@
             "brandName": "H&M",
             "gender": "MAN",
             "count": 1
-               
-                }
+        }
        
     ]
 }
