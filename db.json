@@ -126,6 +126,27 @@
             "count": 1
                    
                
-                }
+                },
+        {
+            "code": "15",
+            "name": "Slim Fit Fine-knit Turtleneck Sweater",
+            "price": 31.99,
+            "images":"https://lp2.hm.com/hmgoepprod?set=source[/2c/7c/2c7cfddfaa2e0a610000c3d5969af0568b204a86.jpg],origin[dam],category[men_cardigansjumpers_turtleneck],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "brandName": "H&M",
+               "gender": "MAN",
+            "count": 1
+
+        },
+        {
+            "code": "16",
+            "name": "Regular Fit Joggers",
+            "price": 14.99,
+            "images": "https://lp2.hm.com/hmgoepprod?set=source[/51/9d/519daf6308896642807bada2b222152d856a04a1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                   
+            "brandName": "H&M",
+           "gender": "MAN",
+            "count": 1
+
+        },
     ]
 }
